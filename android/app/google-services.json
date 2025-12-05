@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328841506268",
+    "project_id": "minidocto",
+    "storage_bucket": "minidocto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328841506268:android:c16120616f0a17789bb319",
+        "android_client_info": {
+          "package_name": "com.example.mini_docto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0BiC-Tjo18FxOE11Q-VlHJy9xrqNJUFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
